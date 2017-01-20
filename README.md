@@ -1,6 +1,18 @@
 # beall
 An archive of Beall's List of Predatory Open Access Publishers, which was removed from his site (https://scholarlyoa.com/) early January 2017.
 
+publishers
+https://archive.fo/6EByy
+
+journals
+https://archive.fo/9MAAD
+
+hijacked
+https://archive.fo/Hr8tk
+
+metrics
+https://archive.fo/tAOfX
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
